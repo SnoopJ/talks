@@ -1,5 +1,6 @@
 * [Python language reference](https://docs.python.org/2/reference/index.html)
 * [Python Enhancement Proposals (PEPs)](https://www.python.org/dev/peps/) are excellent sources of broad-spectrum information and suggestions, in particular [PEP20, the Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
 ### Python examples
 
 * [Determining last Friday's date](https://github.com/dabeaz/python-cookbook/blob/master/src/3/determining_last_fridays_date/example.py)
@@ -26,3 +27,12 @@
 #### Textbooks
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 * [Think Python](http://greenteapress.com/wp/think-python/)
+
+### Misc.
+* The `code` module can be very helpful for debugging: 
+```python
+# Drop out to an interactive console, bringing the local environment with us.  Useful for inspecting variables, etc.
+import code
+code.interact(local=locals())
+# Use Ctrl-D to resume normal execution where you left off when you're done!
+```
