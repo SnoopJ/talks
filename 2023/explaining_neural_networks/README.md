@@ -1,7 +1,9 @@
 ## Explaining Neural Networks
 
-A brief overview of [supervised learning](https://en.wikipedia.org/wiki/Supervised_learning)
-presented to [Boston Python](https://about.bostonpython.com/) on 24 March, 2023
+A brief overview of [supervised
+learning](https://en.wikipedia.org/wiki/Supervised_learning) presented to
+[Boston Python](https://about.bostonpython.com/) on 24 March, 2023. A recording
+of the presentation is [available on YouTube](https://www.youtube.com/watch?v=ciBFsdrVZj0&t=1515s)
 
 
 ## References
